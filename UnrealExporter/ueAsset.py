@@ -414,7 +414,7 @@ class StaticMesh(UnrealAsset):
         if locs:
 
             # Get the parent of the shape of the first locator
-            return loc[0].getParent()
+            return locs[0].getParent()
 
         else:
 
