@@ -17,6 +17,8 @@ ueExport.displayUI()
 ```
 ## Notes
 
+* [Video Demo](https://vimeo.com/255215973)
+
 * For skeletal mesh exports, the tool assumes that the rig that is exported is built for a Game Engine.
 * For static mesh exports, the tool can only do one mesh at a time.
 * For camera exports, what is recommended is importing the camera as a CineCameraActor within a Level Sequence
@@ -25,6 +27,7 @@ ueExport.displayUI()
 
 ## Built With
 Maya 2017 Service Pack 4
+
 Tested on Unreal Engine 4.17.2
 
 
