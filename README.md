@@ -34,6 +34,8 @@ Tested on Unreal Engine 4.17.2
 ## Authors
 * **Greg Richardson** - [grichardson19](https://github.com/grichardson19)
 
+List of [contributors](https://github.com/grichardson19/mayaUnrealExporter/contributors) on this project
+
 ## Acknowledgements
 
 This was inspired from my time over at Halon Entertainment. I wrote this tool completely from scratch for my personal video game Heartwired.
